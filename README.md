@@ -1,7 +1,7 @@
 # Hi there! I'm Dmitry (or just Dima) 👋
 
 I'm a **Full-stack Developer** with a passion for building intelligent web applications and exploring the intersection of Software and Hardware.
-- 🎓 First-year CS Student (Part-time, Online)
+- 🎓 First-year BB Student (Part-time, Online)
 - 📜 Multiple certifications in Python, Web Dev, GameDev
 - ⚡ Fun fact: I manage Minecraft RP servers and love retro gaming emulation.
 
