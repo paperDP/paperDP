@@ -1,27 +1,47 @@
-# Hi there! I'm Dmitry (or just Dima) 👋
+# Привет, я Дима 👋
 
-I'm a **Full-stack Developer** with a passion for building intelligent web applications and exploring the intersection of Software and Hardware.
-- 🎓 First-year BB Student (Part-time, Online)
-- 📜 Multiple certifications in Python, Web Dev, GameDev
-- ⚡ Fun fact: I manage Minecraft RP servers and love retro gaming emulation.
+Студент первого курса бизнес-информатики в СПбГТИ(ТУ). Пишу на Python, интересуюсь бэкендом и интеграцией бизнес-процессов в IT.
 
-### 🛠 My Tech Stack
-- **Languages:** Python, JavaScript/TypeScript, C++ (Arduino/Embedded)
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend/AI:** FastAPI, LangChain, OpenAI API, Local LLMs (Ollama)
-- **Tools:** Git, Docker, Stable Diffusion, ComfyUI
+---
 
-### 💼 Business & Strategy
-Beyond coding, I focus on the **viability and scalability** of digital products:
-- **Product Development:** Experience in building MVP from scratch.
-- **SaaS & Digital Resale:** Interested in Micro-SaaS development and market analysis for digital/physical goods.
-- **Project Management:** Managing Minecraft roleplay servers, which includes balancing in-game economies, legal codes, and community growth.
+## 🛠 Стек
 
-### 🚀 Featured Projects
-- **AI Interview Assistant:** A Next.js & Python tool for real-time interview simulations.
-- **IoT Servo Controller:** Hardware project using Arduino Uno, controlled via custom web-interface.
-- **Weather Stylist:** A web app that suggests outfits based on real-time weather data.
+**Языки:** Python, JavaScript, C#  
+**Бэкенд:** Flask, REST API, SQLite, SQLAlchemy  
+**Боты:** aiogram, Telegram Bot API  
+**Инструменты:** Git, GitHub, PyCharm, VS Code  
+**Изучаю:** FastAPI, базы данных, основы ML  
 
+---
 
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/dmitry-protopopov-626a9a226/) | [Email](mailto:mityaprot@gmail.com)
+## 📌 Проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [clothing-forecast-bot](https://github.com/paperDP/clothing-forecast-bot) | Telegram-бот — погода и совет по одежде, SQLite, FSM, admin-панель | Python, aiogram, SQLAlchemy |
+| [habit-tracker](https://github.com/paperDP/habit-tracker) | Веб-трекер привычек с REST API и прогресс-баром | Python, Flask, SQLite |
+
+---
+
+## 📚 Образование
+
+- 🎓 **СПбГТИ(ТУ)** — Бизнес-информатика, бакалавриат (2025–2030, заочно)
+- 🏫 **Лицей №130, Новосибирский Академгородок** — IT-класс (2022–2024)
+- 🐍 **Яндекс Лицей** — Основы программирования на Python (2020)
+- 🐍 **Яндекс Лицей** — Промышленное программирование на Python (2021)
+- 🎮 **Код Будущего (Госуслуги)** — Геймдев: Python, C#, Unity (2023, 160 часов)
+
+---
+
+## 🧠 Немного обо мне
+
+- Запускал и администрировал Minecraft RP-серверы: экономика, правила, сообщество — это тоже про управление проектами
+- Интересуюсь тем, как бизнес-процессы переводятся в IT-продукты
+- Английский B2 (Duolingo English Test)
+
+---
+
+## 📫 Контакты
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmitry_Protopopov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dmitry-protopopov-626a9a226/)
+[![Email](https://img.shields.io/badge/Email-mityaprot@gmail.com-red?style=flat-square&logo=gmail)](mailto:mityaprot@gmail.com)
